@@ -1,0 +1,10 @@
+.DS_Store
+
+output/*
+!output/.gitkeep
+
+cache/*
+!cache/.gitkeep
+
+node_modules
+dist
